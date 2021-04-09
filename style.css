@@ -21,6 +21,7 @@ body {
     margin: 0px;
     display: flex;
     text-align: right;
+border: thin solid black;
     align-items: center;
 }
 .nav-menu ul li {

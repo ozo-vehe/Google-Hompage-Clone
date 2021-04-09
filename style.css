@@ -20,7 +20,7 @@ body {
     padding: 0px;
     margin: 0px;
     display: flex;
-    justify-content: right;
+    text-align: right;
     align-items: center;
 }
 .nav-menu ul li {
